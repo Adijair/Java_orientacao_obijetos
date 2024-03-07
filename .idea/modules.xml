@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_orientacao_obijetos.iml" filepath="$PROJECT_DIR$/.idea/Java_orientacao_obijetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execicios/execicios.iml" filepath="$PROJECT_DIR$/execicios/execicios.iml" />
+    </modules>
+  </component>
+</project>
