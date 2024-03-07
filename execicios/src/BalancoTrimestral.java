@@ -6,7 +6,7 @@ public class BalancoTrimestral { //criar classe
         int gastosTrimestre = gastosJaneiro + gastosFevereiro + gastosMarco; //faze a soma
 
         System.out.println("Gastos do trimestre: R$" + gastosTrimestre);
-        int mediaPorMes = + gastosTrimestre / 3; //faze a media aritimetica
+        int mediaPorMes = gastosTrimestre / 3; //faze a media aritimetica
         System.out.println("Média mensal: R$" + mediaPorMes);
     }
 }
