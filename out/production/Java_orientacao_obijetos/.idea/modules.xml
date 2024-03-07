@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_orientacao_obijetos.iml" filepath="$PROJECT_DIR$/.idea/Java_orientacao_obijetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/execicios/execicios.iml" filepath="$PROJECT_DIR$/execicios/execicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/execicios_Fixacao_Sintaxe/execicios_Fixacao_Sintaxe.iml" filepath="$PROJECT_DIR$/execicios_Fixacao_Sintaxe/execicios_Fixacao_Sintaxe.iml" />
     </modules>
   </component>
 </project>
