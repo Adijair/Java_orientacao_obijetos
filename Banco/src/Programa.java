@@ -6,6 +6,5 @@ public class Programa {
         minhaConta.saldo = 1000.0;
         System.out.println("Saldo atual: " + minhaConta.saldo);
 
-
     }
 }
